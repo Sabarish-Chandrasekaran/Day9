@@ -1,0 +1,892 @@
+//a.output => 
+xhr.js:15 name: Cambodia
+xhr.js:15 name: Hong Kong
+xhr.js:15 name: Yemen
+xhr.js:15 name: Kazakhstan
+xhr.js:15 name: Macau
+xhr.js:15 name: Taiwan
+xhr.js:15 name: Sri Lanka
+xhr.js:15 name: Israel
+xhr.js:15 name: Bhutan
+xhr.js:15 name: North Korea
+xhr.js:15 name: Bahrain
+xhr.js:15 name: Iraq
+xhr.js:15 name: Oman
+xhr.js:15 name: Thailand
+xhr.js:15 name: Armenia
+xhr.js:15 name: Georgia
+xhr.js:15 name: Qatar
+xhr.js:15 name: Myanmar
+xhr.js:15 name: Philippines
+xhr.js:15 name: Brunei
+xhr.js:15 name: Mongolia
+xhr.js:15 name: Timor-Leste
+xhr.js:15 name: Kuwait
+xhr.js:15 name: Bangladesh
+xhr.js:15 name: Malaysia
+xhr.js:15 name: Vietnam
+xhr.js:15 name: Nepal
+xhr.js:15 name: Singapore
+xhr.js:15 name: Azerbaijan
+xhr.js:15 name: China
+xhr.js:15 name: United Arab Emirates
+xhr.js:15 name: Turkmenistan
+xhr.js:15 name: Laos
+xhr.js:15 name: Jordan
+xhr.js:15 name: Palestine
+xhr.js:15 name: Uzbekistan
+xhr.js:15 name: Japan
+xhr.js:15 name: Indonesia
+xhr.js:15 name: Kyrgyzstan
+xhr.js:15 name: Lebanon
+xhr.js:15 name: Maldives
+xhr.js:15 name: South Korea
+xhr.js:15 name: Syria
+xhr.js:15 name: Afghanistan
+xhr.js:15 name: Tajikistan
+xhr.js:15 name: Turkey
+xhr.js:15 name: India
+xhr.js:15 name: Pakistan
+xhr.js:15 name: Iran
+xhr.js:15 name: Saudi Arabia
+
+//b.output
+xhr.js:40 name: Tokelau
+xhr.js:40 name: United States Minor Outlying Islands
+xhr.js:40 name: Samoa
+xhr.js:40 name: British Virgin Islands
+xhr.js:40 name: Liechtenstein
+xhr.js:40 name: Northern Mariana Islands
+xhr.js:40 name: Bermuda
+xhr.js:40 name: South Georgia
+xhr.js:40 name: Antarctica
+xhr.js:40 name: Cook Islands
+xhr.js:40 name: Sint Maarten
+xhr.js:40 name: Heard Island and McDonald Islands
+xhr.js:40 name: Greenland
+xhr.js:40 name: Nauru
+xhr.js:40 name: Saint Pierre and Miquelon
+xhr.js:40 name: Cayman Islands
+xhr.js:40 name: Faroe Islands
+xhr.js:40 name: Aruba
+xhr.js:40 name: British Indian Ocean Territory
+xhr.js:40 name: Svalbard and Jan Mayen
+xhr.js:40 name: Monaco
+xhr.js:40 name: American Samoa
+xhr.js:40 name: Saint Kitts and Nevis
+xhr.js:40 name: Vatican City
+xhr.js:40 name: Micronesia
+xhr.js:40 name: Falkland Islands
+xhr.js:40 name: Bouvet Island
+xhr.js:40 name: Pitcairn Islands
+xhr.js:40 name: Anguilla
+xhr.js:40 name: Curaçao
+xhr.js:40 name: Saint Martin
+xhr.js:40 name: Saint Vincent and the Grenadines
+xhr.js:40 name: Caribbean Netherlands
+xhr.js:40 name: Wallis and Futuna
+xhr.js:40 name: Dominica
+xhr.js:40 name: Andorra
+xhr.js:40 name: Gibraltar
+xhr.js:40 name: Tuvalu
+xhr.js:40 name: Cocos (Keeling) Islands
+xhr.js:40 name: Kiribati
+xhr.js:40 name: Marshall Islands
+xhr.js:40 name: Seychelles
+xhr.js:40 name: Åland Islands
+xhr.js:40 name: Guam
+xhr.js:40 name: Jersey
+xhr.js:40 name: Montserrat
+xhr.js:40 name: Saint Barthélemy
+xhr.js:40 name: Grenada
+xhr.js:40 name: Antigua and Barbuda
+xhr.js:40 name: United States Virgin Islands
+xhr.js:40 name: Palau
+xhr.js:40 name: Tonga
+xhr.js:40 name: Niue
+xhr.js:40 name: Saint Lucia
+xhr.js:40 name: Guernsey
+xhr.js:40 name: San Marino
+xhr.js:40 name: Norfolk Island
+xhr.js:40 name: Turks and Caicos Islands
+xhr.js:40 name: French Southern and Antarctic Lands
+xhr.js:40 name: Christmas Island
+xhr.js:40 name: Saint Helena, Ascension and Tristan da Cunha
+xhr.js:40 name: Isle of Man
+
+//c.output
+xhr.js:65 Name: Montenegro
+xhr.js:65 Capital: Podgorica
+xhr.js:66 Flag: https://flagcdn.com/w320/me.png
+xhr.js:64 Name: Tokelau
+xhr.js:65 Capital: Fakaofo
+xhr.js:66 Flag: https://flagcdn.com/w320/tk.png
+xhr.js:64 Name: Cuba
+xhr.js:65 Capital: Havana
+xhr.js:66 Flag: https://flagcdn.com/w320/cu.png
+xhr.js:64 Name: Guadeloupe
+xhr.js:65 Capital: Basse-Terre
+xhr.js:66 Flag: https://flagcdn.com/w320/gp.png
+xhr.js:64 Name: Greece
+xhr.js:65 Capital: Athens
+xhr.js:66 Flag: https://flagcdn.com/w320/gr.png
+xhr.js:64 Name: Martinique
+xhr.js:65 Capital: Fort-de-France
+xhr.js:66 Flag: https://flagcdn.com/w320/mq.png
+xhr.js:64 Name: Venezuela
+xhr.js:65 Capital: Caracas
+xhr.js:66 Flag: https://flagcdn.com/w320/ve.png
+xhr.js:64 Name: United States Minor Outlying Islands
+xhr.js:65 Capital: undefined
+xhr.js:66 Flag: https://flagcdn.com/w320/um.png
+xhr.js:64 Name: Samoa
+xhr.js:65 Capital: Apia
+xhr.js:66 Flag: https://flagcdn.com/w320/ws.png
+xhr.js:64 Name: Cambodia
+xhr.js:65 Capital: Phnom Penh
+xhr.js:66 Flag: https://flagcdn.com/w320/kh.png
+xhr.js:64 Name: Hong Kong
+xhr.js:65 Capital: City of Victoria
+xhr.js:66 Flag: https://flagcdn.com/w320/hk.png
+xhr.js:64 Name: Mauritania
+xhr.js:65 Capital: Nouakchott
+xhr.js:66 Flag: https://flagcdn.com/w320/mr.png
+xhr.js:64 Name: Yemen
+xhr.js:65 Capital: Sana'a
+xhr.js:66 Flag: https://flagcdn.com/w320/ye.png
+xhr.js:64 Name: Djibouti
+xhr.js:65 Capital: Djibouti
+xhr.js:66 Flag: https://flagcdn.com/w320/dj.png
+xhr.js:64 Name: British Virgin Islands
+xhr.js:65 Capital: Road Town
+xhr.js:66 Flag: https://flagcdn.com/w320/vg.png
+xhr.js:64 Name: Egypt
+xhr.js:65 Capital: Cairo
+xhr.js:66 Flag: https://flagcdn.com/w320/eg.png
+xhr.js:64 Name: Croatia
+xhr.js:65 Capital: Zagreb
+xhr.js:66 Flag: https://flagcdn.com/w320/hr.png
+xhr.js:64 Name: Liechtenstein
+xhr.js:65 Capital: Vaduz
+xhr.js:66 Flag: https://flagcdn.com/w320/li.png
+xhr.js:64 Name: Kazakhstan
+xhr.js:65 Capital: Nur-Sultan
+xhr.js:66 Flag: https://flagcdn.com/w320/kz.png
+xhr.js:64 Name: Denmark
+xhr.js:65 Capital: Copenhagen
+xhr.js:66 Flag: https://flagcdn.com/w320/dk.png
+xhr.js:64 Name: Benin
+xhr.js:65 Capital: Porto-Novo
+xhr.js:66 Flag: https://flagcdn.com/w320/bj.png
+xhr.js:64 Name: Northern Mariana Islands
+xhr.js:65 Capital: Saipan
+xhr.js:66 Flag: https://flagcdn.com/w320/mp.png
+xhr.js:64 Name: Bermuda
+xhr.js:65 Capital: Hamilton
+xhr.js:66 Flag: https://flagcdn.com/w320/bm.png
+xhr.js:64 Name: Italy
+xhr.js:65 Capital: Rome
+xhr.js:66 Flag: https://flagcdn.com/w320/it.png
+xhr.js:64 Name: South Georgia
+xhr.js:65 Capital: King Edward Point
+xhr.js:66 Flag: https://flagcdn.com/w320/gs.png
+xhr.js:64 Name: South Africa
+xhr.js:65 Capital: Pretoria,Bloemfontein,Cape Town
+xhr.js:66 Flag: https://flagcdn.com/w320/za.png
+xhr.js:64 Name: Rwanda
+xhr.js:65 Capital: Kigali
+xhr.js:66 Flag: https://flagcdn.com/w320/rw.png
+xhr.js:64 Name: Macau
+xhr.js:65 Capital: undefined
+xhr.js:66 Flag: https://flagcdn.com/w320/mo.png
+xhr.js:64 Name: Burundi
+xhr.js:65 Capital: Gitega
+xhr.js:66 Flag: https://flagcdn.com/w320/bi.png
+xhr.js:64 Name: French Guiana
+xhr.js:65 Capital: Cayenne
+xhr.js:66 Flag: https://flagcdn.com/w320/gf.png
+xhr.js:64 Name: Ukraine
+xhr.js:65 Capital: Kyiv
+xhr.js:66 Flag: https://flagcdn.com/w320/ua.png
+xhr.js:64 Name: Togo
+xhr.js:65 Capital: Lomé
+xhr.js:66 Flag: https://flagcdn.com/w320/tg.png
+xhr.js:64 Name: Taiwan
+xhr.js:65 Capital: Taipei
+xhr.js:66 Flag: https://flagcdn.com/w320/tw.png
+xhr.js:64 Name: Antarctica
+xhr.js:65 Capital: undefined
+xhr.js:66 Flag: https://flagcdn.com/w320/aq.png
+xhr.js:64 Name: Cook Islands
+xhr.js:65 Capital: Avarua
+xhr.js:66 Flag: https://flagcdn.com/w320/ck.png
+xhr.js:64 Name: Guinea-Bissau
+xhr.js:65 Capital: Bissau
+xhr.js:66 Flag: https://flagcdn.com/w320/gw.png
+xhr.js:64 Name: Sint Maarten
+xhr.js:65 Capital: Philipsburg
+xhr.js:66 Flag: https://flagcdn.com/w320/sx.png
+xhr.js:64 Name: Ivory Coast
+xhr.js:65 Capital: Yamoussoukro
+xhr.js:66 Flag: https://flagcdn.com/w320/ci.png
+xhr.js:64 Name: Iceland
+xhr.js:65 Capital: Reykjavik
+xhr.js:66 Flag: https://flagcdn.com/w320/is.png
+xhr.js:64 Name: Paraguay
+xhr.js:65 Capital: Asunción
+xhr.js:66 Flag: https://flagcdn.com/w320/py.png
+xhr.js:64 Name: Eswatini
+xhr.js:65 Capital: Mbabane
+xhr.js:66 Flag: https://flagcdn.com/w320/sz.png
+xhr.js:64 Name: Hungary
+xhr.js:65 Capital: Budapest
+xhr.js:66 Flag: https://flagcdn.com/w320/hu.png
+xhr.js:64 Name: Heard Island and McDonald Islands
+xhr.js:65 Capital: undefined
+xhr.js:66 Flag: https://flagcdn.com/w320/hm.png
+xhr.js:64 Name: Moldova
+xhr.js:65 Capital: Chișinău
+xhr.js:66 Flag: https://flagcdn.com/w320/md.png
+xhr.js:64 Name: Chile
+xhr.js:65 Capital: Santiago
+xhr.js:66 Flag: https://flagcdn.com/w320/cl.png
+xhr.js:64 Name: Greenland
+xhr.js:65 Capital: Nuuk
+xhr.js:66 Flag: https://flagcdn.com/w320/gl.png
+xhr.js:64 Name: Nauru
+xhr.js:65 Capital: Yaren
+xhr.js:66 Flag: https://flagcdn.com/w320/nr.png
+xhr.js:64 Name: Uruguay
+xhr.js:65 Capital: Montevideo
+xhr.js:66 Flag: https://flagcdn.com/w320/uy.png
+xhr.js:64 Name: Ecuador
+xhr.js:65 Capital: Quito
+xhr.js:66 Flag: https://flagcdn.com/w320/ec.png
+xhr.js:64 Name: Sri Lanka
+xhr.js:65 Capital: Sri Jayawardenepura Kotte
+xhr.js:66 Flag: https://flagcdn.com/w320/lk.png
+xhr.js:64 Name: Saint Pierre and Miquelon
+xhr.js:65 Capital: Saint-Pierre
+xhr.js:66 Flag: https://flagcdn.com/w320/pm.png
+xhr.js:64 Name: Guatemala
+xhr.js:65 Capital: Guatemala City
+xhr.js:66 Flag: https://flagcdn.com/w320/gt.png
+xhr.js:64 Name: Ghana
+xhr.js:65 Capital: Accra
+xhr.js:66 Flag: https://flagcdn.com/w320/gh.png
+xhr.js:64 Name: Israel
+xhr.js:65 Capital: Jerusalem
+xhr.js:66 Flag: https://flagcdn.com/w320/il.png
+xhr.js:64 Name: Mozambique
+xhr.js:65 Capital: Maputo
+xhr.js:66 Flag: https://flagcdn.com/w320/mz.png
+xhr.js:64 Name: Bhutan
+xhr.js:65 Capital: Thimphu
+xhr.js:66 Flag: https://flagcdn.com/w320/bt.png
+xhr.js:64 Name: Cayman Islands
+xhr.js:65 Capital: George Town
+xhr.js:66 Flag: https://flagcdn.com/w320/ky.png
+xhr.js:64 Name: North Korea
+xhr.js:65 Capital: Pyongyang
+xhr.js:66 Flag: https://flagcdn.com/w320/kp.png
+xhr.js:64 Name: Bahrain
+xhr.js:65 Capital: Manama
+xhr.js:66 Flag: https://flagcdn.com/w320/bh.png
+xhr.js:64 Name: Faroe Islands
+xhr.js:65 Capital: Tórshavn
+xhr.js:66 Flag: https://flagcdn.com/w320/fo.png
+xhr.js:64 Name: Aruba
+xhr.js:65 Capital: Oranjestad
+xhr.js:66 Flag: https://flagcdn.com/w320/aw.png
+xhr.js:64 Name: Iraq
+xhr.js:65 Capital: Baghdad
+xhr.js:66 Flag: https://flagcdn.com/w320/iq.png
+xhr.js:64 Name: British Indian Ocean Territory
+xhr.js:65 Capital: Diego Garcia
+xhr.js:66 Flag: https://flagcdn.com/w320/io.png
+xhr.js:64 Name: Morocco
+xhr.js:65 Capital: Rabat
+xhr.js:66 Flag: https://flagcdn.com/w320/ma.png
+xhr.js:64 Name: North Macedonia
+xhr.js:65 Capital: Skopje
+xhr.js:66 Flag: https://flagcdn.com/w320/mk.png
+xhr.js:64 Name: Poland
+xhr.js:65 Capital: Warsaw
+xhr.js:66 Flag: https://flagcdn.com/w320/pl.png
+xhr.js:64 Name: Solomon Islands
+xhr.js:65 Capital: Honiara
+xhr.js:66 Flag: https://flagcdn.com/w320/sb.png
+xhr.js:64 Name: Brazil
+xhr.js:65 Capital: Brasília
+xhr.js:66 Flag: https://flagcdn.com/w320/br.png
+xhr.js:64 Name: Slovenia
+xhr.js:65 Capital: Ljubljana
+xhr.js:66 Flag: https://flagcdn.com/w320/si.png
+xhr.js:64 Name: Oman
+xhr.js:65 Capital: Muscat
+xhr.js:66 Flag: https://flagcdn.com/w320/om.png
+xhr.js:64 Name: Thailand
+xhr.js:65 Capital: Bangkok
+xhr.js:66 Flag: https://flagcdn.com/w320/th.png
+xhr.js:64 Name: Central African Republic
+xhr.js:65 Capital: Bangui
+xhr.js:66 Flag: https://flagcdn.com/w320/cf.png
+xhr.js:64 Name: El Salvador
+xhr.js:65 Capital: San Salvador
+xhr.js:66 Flag: https://flagcdn.com/w320/sv.png
+xhr.js:64 Name: Armenia
+xhr.js:65 Capital: Yerevan
+xhr.js:66 Flag: https://flagcdn.com/w320/am.png
+xhr.js:64 Name: Honduras
+xhr.js:65 Capital: Tegucigalpa
+xhr.js:66 Flag: https://flagcdn.com/w320/hn.png
+xhr.js:64 Name: Zambia
+xhr.js:65 Capital: Lusaka
+xhr.js:66 Flag: https://flagcdn.com/w320/zm.png
+xhr.js:64 Name: Svalbard and Jan Mayen
+xhr.js:65 Capital: Longyearbyen
+xhr.js:66 Flag: https://flagcdn.com/w320/sj.png
+xhr.js:64 Name: Luxembourg
+xhr.js:65 Capital: Luxembourg
+xhr.js:66 Flag: https://flagcdn.com/w320/lu.png
+xhr.js:64 Name: Colombia
+xhr.js:65 Capital: Bogotá
+xhr.js:66 Flag: https://flagcdn.com/w320/co.png
+xhr.js:64 Name: Barbados
+xhr.js:65 Capital: Bridgetown
+xhr.js:66 Flag: https://flagcdn.com/w320/bb.png
+xhr.js:64 Name: Libya
+xhr.js:65 Capital: Tripoli
+xhr.js:66 Flag: https://flagcdn.com/w320/ly.png
+xhr.js:64 Name: Serbia
+xhr.js:65 Capital: Belgrade
+xhr.js:66 Flag: https://flagcdn.com/w320/rs.png
+xhr.js:64 Name: Monaco
+xhr.js:65 Capital: Monaco
+xhr.js:66 Flag: https://flagcdn.com/w320/mc.png
+xhr.js:64 Name: Sweden
+xhr.js:65 Capital: Stockholm
+xhr.js:66 Flag: https://flagcdn.com/w320/se.png
+xhr.js:64 Name: Niger
+xhr.js:65 Capital: Niamey
+xhr.js:66 Flag: https://flagcdn.com/w320/ne.png
+xhr.js:64 Name: Angola
+xhr.js:65 Capital: Luanda
+xhr.js:66 Flag: https://flagcdn.com/w320/ao.png
+xhr.js:64 Name: Panama
+xhr.js:65 Capital: Panama City
+xhr.js:66 Flag: https://flagcdn.com/w320/pa.png
+xhr.js:64 Name: Mauritius
+xhr.js:65 Capital: Port Louis
+xhr.js:66 Flag: https://flagcdn.com/w320/mu.png
+xhr.js:64 Name: Tanzania
+xhr.js:65 Capital: Dodoma
+xhr.js:66 Flag: https://flagcdn.com/w320/tz.png
+xhr.js:64 Name: Mali
+xhr.js:65 Capital: Bamako
+xhr.js:66 Flag: https://flagcdn.com/w320/ml.png
+xhr.js:64 Name: Cameroon
+xhr.js:65 Capital: Yaoundé
+xhr.js:66 Flag: https://flagcdn.com/w320/cm.png
+xhr.js:64 Name: Georgia
+xhr.js:65 Capital: Tbilisi
+xhr.js:66 Flag: https://flagcdn.com/w320/ge.png
+xhr.js:64 Name: Gambia
+xhr.js:65 Capital: Banjul
+xhr.js:66 Flag: https://flagcdn.com/w320/gm.png
+xhr.js:64 Name: Malta
+xhr.js:65 Capital: Valletta
+xhr.js:66 Flag: https://flagcdn.com/w320/mt.png
+xhr.js:64 Name: American Samoa
+xhr.js:65 Capital: Pago Pago
+xhr.js:66 Flag: https://flagcdn.com/w320/as.png
+xhr.js:64 Name: Zimbabwe
+xhr.js:65 Capital: Harare
+xhr.js:66 Flag: https://flagcdn.com/w320/zw.png
+xhr.js:64 Name: Belize
+xhr.js:65 Capital: Belmopan
+xhr.js:66 Flag: https://flagcdn.com/w320/bz.png
+xhr.js:64 Name: Saint Kitts and Nevis
+xhr.js:65 Capital: Basseterre
+xhr.js:66 Flag: https://flagcdn.com/w320/kn.png
+xhr.js:64 Name: Vatican City
+xhr.js:65 Capital: Vatican City
+xhr.js:66 Flag: https://flagcdn.com/w320/va.png
+xhr.js:64 Name: Micronesia
+xhr.js:65 Capital: Palikir
+xhr.js:66 Flag: https://flagcdn.com/w320/fm.png
+xhr.js:64 Name: Chad
+xhr.js:65 Capital: N'Djamena
+xhr.js:66 Flag: https://flagcdn.com/w320/td.png
+xhr.js:64 Name: Belarus
+xhr.js:65 Capital: Minsk
+xhr.js:66 Flag: https://flagcdn.com/w320/by.png
+xhr.js:64 Name: Canada
+xhr.js:65 Capital: Ottawa
+xhr.js:66 Flag: https://flagcdn.com/w320/ca.png
+xhr.js:64 Name: Argentina
+xhr.js:65 Capital: Buenos Aires
+xhr.js:66 Flag: https://flagcdn.com/w320/ar.png
+xhr.js:64 Name: Suriname
+xhr.js:65 Capital: Paramaribo
+xhr.js:66 Flag: https://flagcdn.com/w320/sr.png
+xhr.js:64 Name: Australia
+xhr.js:65 Capital: Canberra
+xhr.js:66 Flag: https://flagcdn.com/w320/au.png
+xhr.js:64 Name: Guinea
+xhr.js:65 Capital: Conakry
+xhr.js:66 Flag: https://flagcdn.com/w320/gn.png
+xhr.js:64 Name: South Sudan
+xhr.js:65 Capital: Juba
+xhr.js:66 Flag: https://flagcdn.com/w320/ss.png
+xhr.js:64 Name: Namibia
+xhr.js:65 Capital: Windhoek
+xhr.js:66 Flag: https://flagcdn.com/w320/na.png
+xhr.js:64 Name: Qatar
+xhr.js:65 Capital: Doha
+xhr.js:66 Flag: https://flagcdn.com/w320/qa.png
+xhr.js:64 Name: Myanmar
+xhr.js:65 Capital: Naypyidaw
+xhr.js:66 Flag: https://flagcdn.com/w320/mm.png
+xhr.js:64 Name: Falkland Islands
+xhr.js:65 Capital: Stanley
+xhr.js:66 Flag: https://flagcdn.com/w320/fk.png
+xhr.js:64 Name: Ireland
+xhr.js:65 Capital: Dublin
+xhr.js:66 Flag: https://flagcdn.com/w320/ie.png
+xhr.js:64 Name: São Tomé and Príncipe
+xhr.js:65 Capital: São Tomé
+xhr.js:66 Flag: https://flagcdn.com/w320/st.png
+xhr.js:64 Name: Bouvet Island
+xhr.js:65 Capital: undefined
+xhr.js:66 Flag: https://flagcdn.com/w320/bv.png
+xhr.js:64 Name: Lithuania
+xhr.js:65 Capital: Vilnius
+xhr.js:66 Flag: https://flagcdn.com/w320/lt.png
+xhr.js:64 Name: DR Congo
+xhr.js:65 Capital: Kinshasa
+xhr.js:66 Flag: https://flagcdn.com/w320/cd.png
+xhr.js:64 Name: Philippines
+xhr.js:65 Capital: Manila
+xhr.js:66 Flag: https://flagcdn.com/w320/ph.png
+xhr.js:64 Name: Brunei
+xhr.js:65 Capital: Bandar Seri Begawan
+xhr.js:66 Flag: https://flagcdn.com/w320/bn.png
+xhr.js:64 Name: Sierra Leone
+xhr.js:65 Capital: Freetown
+xhr.js:66 Flag: https://flagcdn.com/w320/sl.png
+xhr.js:64 Name: Mongolia
+xhr.js:65 Capital: Ulan Bator
+xhr.js:66 Flag: https://flagcdn.com/w320/mn.png
+xhr.js:64 Name: Western Sahara
+xhr.js:65 Capital: El Aaiún
+xhr.js:66 Flag: https://flagcdn.com/w320/eh.png
+xhr.js:64 Name: Pitcairn Islands
+xhr.js:65 Capital: Adamstown
+xhr.js:66 Flag: https://flagcdn.com/w320/pn.png
+xhr.js:64 Name: Sudan
+xhr.js:65 Capital: Khartoum
+xhr.js:66 Flag: https://flagcdn.com/w320/sd.png
+xhr.js:64 Name: Timor-Leste
+xhr.js:65 Capital: Dili
+xhr.js:66 Flag: https://flagcdn.com/w320/tl.png
+xhr.js:64 Name: Anguilla
+xhr.js:65 Capital: The Valley
+xhr.js:66 Flag: https://flagcdn.com/w320/ai.png
+xhr.js:64 Name: Curaçao
+xhr.js:65 Capital: Willemstad
+xhr.js:66 Flag: https://flagcdn.com/w320/cw.png
+xhr.js:64 Name: Republic of the Congo
+xhr.js:65 Capital: Brazzaville
+xhr.js:66 Flag: https://flagcdn.com/w320/cg.png
+xhr.js:64 Name: Finland
+xhr.js:65 Capital: Helsinki
+xhr.js:66 Flag: https://flagcdn.com/w320/fi.png
+xhr.js:64 Name: Austria
+xhr.js:65 Capital: Vienna
+xhr.js:66 Flag: https://flagcdn.com/w320/at.png
+xhr.js:64 Name: Ethiopia
+xhr.js:65 Capital: Addis Ababa
+xhr.js:66 Flag: https://flagcdn.com/w320/et.png
+xhr.js:64 Name: Saint Martin
+xhr.js:65 Capital: Marigot
+xhr.js:66 Flag: https://flagcdn.com/w320/mf.png
+xhr.js:64 Name: Saint Vincent and the Grenadines
+xhr.js:65 Capital: Kingstown
+xhr.js:66 Flag: https://flagcdn.com/w320/vc.png
+xhr.js:64 Name: Bosnia and Herzegovina
+xhr.js:65 Capital: Sarajevo
+xhr.js:66 Flag: https://flagcdn.com/w320/ba.png
+xhr.js:64 Name: Comoros
+xhr.js:65 Capital: Moroni
+xhr.js:66 Flag: https://flagcdn.com/w320/km.png
+xhr.js:64 Name: Caribbean Netherlands
+xhr.js:65 Capital: Kralendijk
+xhr.js:66 Flag: https://flagcdn.com/w320/bq.png
+xhr.js:64 Name: Norway
+xhr.js:65 Capital: Oslo
+xhr.js:66 Flag: https://flagcdn.com/w320/no.png
+xhr.js:64 Name: Kuwait
+xhr.js:65 Capital: Kuwait City
+xhr.js:66 Flag: https://flagcdn.com/w320/kw.png
+xhr.js:64 Name: Burkina Faso
+xhr.js:65 Capital: Ouagadougou
+xhr.js:66 Flag: https://flagcdn.com/w320/bf.png
+xhr.js:64 Name: Wallis and Futuna
+xhr.js:65 Capital: Mata-Utu
+xhr.js:66 Flag: https://flagcdn.com/w320/wf.png
+xhr.js:64 Name: Bangladesh
+xhr.js:65 Capital: Dhaka
+xhr.js:66 Flag: https://flagcdn.com/w320/bd.png
+xhr.js:64 Name: Dominica
+xhr.js:65 Capital: Roseau
+xhr.js:66 Flag: https://flagcdn.com/w320/dm.png
+xhr.js:64 Name: Jamaica
+xhr.js:65 Capital: Kingston
+xhr.js:66 Flag: https://flagcdn.com/w320/jm.png
+xhr.js:64 Name: Andorra
+xhr.js:65 Capital: Andorra la Vella
+xhr.js:66 Flag: https://flagcdn.com/w320/ad.png
+xhr.js:64 Name: Gibraltar
+xhr.js:65 Capital: Gibraltar
+xhr.js:66 Flag: https://flagcdn.com/w320/gi.png
+xhr.js:64 Name: Malaysia
+xhr.js:65 Capital: Kuala Lumpur
+xhr.js:66 Flag: https://flagcdn.com/w320/my.png
+xhr.js:64 Name: United Kingdom
+xhr.js:65 Capital: London
+xhr.js:66 Flag: https://flagcdn.com/w320/gb.png
+xhr.js:64 Name: Madagascar
+xhr.js:65 Capital: Antananarivo
+xhr.js:66 Flag: https://flagcdn.com/w320/mg.png
+xhr.js:64 Name: Switzerland
+xhr.js:65 Capital: Bern
+xhr.js:66 Flag: https://flagcdn.com/w320/ch.png
+xhr.js:64 Name: Tuvalu
+xhr.js:65 Capital: Funafuti
+xhr.js:66 Flag: https://flagcdn.com/w320/tv.png
+xhr.js:64 Name: Algeria
+xhr.js:65 Capital: Algiers
+xhr.js:66 Flag: https://flagcdn.com/w320/dz.png
+xhr.js:64 Name: Russia
+xhr.js:65 Capital: Moscow
+xhr.js:66 Flag: https://flagcdn.com/w320/ru.png
+xhr.js:64 Name: Vietnam
+xhr.js:65 Capital: Hanoi
+xhr.js:66 Flag: https://flagcdn.com/w320/vn.png
+xhr.js:64 Name: Cocos (Keeling) Islands
+xhr.js:65 Capital: West Island
+xhr.js:66 Flag: https://flagcdn.com/w320/cc.png
+xhr.js:64 Name: Nepal
+xhr.js:65 Capital: Kathmandu
+xhr.js:66 Flag: https://flagcdn.com/w320/np.png
+xhr.js:64 Name: Netherlands
+xhr.js:65 Capital: Amsterdam
+xhr.js:66 Flag: https://flagcdn.com/w320/nl.png
+xhr.js:64 Name: Kiribati
+xhr.js:65 Capital: South Tarawa
+xhr.js:66 Flag: https://flagcdn.com/w320/ki.png
+xhr.js:64 Name: Liberia
+xhr.js:65 Capital: Monrovia
+xhr.js:66 Flag: https://flagcdn.com/w320/lr.png
+xhr.js:64 Name: Somalia
+xhr.js:65 Capital: Mogadishu
+xhr.js:66 Flag: https://flagcdn.com/w320/so.png
+xhr.js:64 Name: Romania
+xhr.js:65 Capital: Bucharest
+xhr.js:66 Flag: https://flagcdn.com/w320/ro.png
+xhr.js:64 Name: Marshall Islands
+xhr.js:65 Capital: Majuro
+xhr.js:66 Flag: https://flagcdn.com/w320/mh.png
+xhr.js:64 Name: Spain
+xhr.js:65 Capital: Madrid
+xhr.js:66 Flag: https://flagcdn.com/w320/es.png
+xhr.js:64 Name: United States
+xhr.js:65 Capital: Washington, D.C.
+xhr.js:66 Flag: https://flagcdn.com/w320/us.png
+xhr.js:64 Name: Réunion
+xhr.js:65 Capital: Saint-Denis
+xhr.js:66 Flag: https://flagcdn.com/w320/re.png
+xhr.js:64 Name: Singapore
+xhr.js:65 Capital: Singapore
+xhr.js:66 Flag: https://flagcdn.com/w320/sg.png
+xhr.js:64 Name: Tunisia
+xhr.js:65 Capital: Tunis
+xhr.js:66 Flag: https://flagcdn.com/w320/tn.png
+xhr.js:64 Name: Azerbaijan
+xhr.js:65 Capital: Baku
+xhr.js:66 Flag: https://flagcdn.com/w320/az.png
+xhr.js:64 Name: Papua New Guinea
+xhr.js:65 Capital: Port Moresby
+xhr.js:66 Flag: https://flagcdn.com/w320/pg.png
+xhr.js:64 Name: Lesotho
+xhr.js:65 Capital: Maseru
+xhr.js:66 Flag: https://flagcdn.com/w320/ls.png
+xhr.js:64 Name: Bahamas
+xhr.js:65 Capital: Nassau
+xhr.js:66 Flag: https://flagcdn.com/w320/bs.png
+xhr.js:64 Name: China
+xhr.js:65 Capital: Beijing
+xhr.js:66 Flag: https://flagcdn.com/w320/cn.png
+xhr.js:64 Name: Mayotte
+xhr.js:65 Capital: Mamoudzou
+xhr.js:66 Flag: https://flagcdn.com/w320/yt.png
+xhr.js:64 Name: Senegal
+xhr.js:65 Capital: Dakar
+xhr.js:66 Flag: https://flagcdn.com/w320/sn.png
+xhr.js:64 Name: Cyprus
+xhr.js:65 Capital: Nicosia
+xhr.js:66 Flag: https://flagcdn.com/w320/cy.png
+xhr.js:64 Name: United Arab Emirates
+xhr.js:65 Capital: Abu Dhabi
+xhr.js:66 Flag: https://flagcdn.com/w320/ae.png
+xhr.js:64 Name: Turkmenistan
+xhr.js:65 Capital: Ashgabat
+xhr.js:66 Flag: https://flagcdn.com/w320/tm.png
+xhr.js:64 Name: Laos
+xhr.js:65 Capital: Vientiane
+xhr.js:66 Flag: https://flagcdn.com/w320/la.png
+xhr.js:64 Name: Belgium
+xhr.js:65 Capital: Brussels
+xhr.js:66 Flag: https://flagcdn.com/w320/be.png
+xhr.js:64 Name: Jordan
+xhr.js:65 Capital: Amman
+xhr.js:66 Flag: https://flagcdn.com/w320/jo.png
+xhr.js:64 Name: Palestine
+xhr.js:65 Capital: Ramallah
+xhr.js:66 Flag: https://flagcdn.com/w320/ps.png
+xhr.js:64 Name: Seychelles
+xhr.js:65 Capital: Victoria
+xhr.js:66 Flag: https://flagcdn.com/w320/sc.png
+xhr.js:64 Name: Uzbekistan
+xhr.js:65 Capital: Tashkent
+xhr.js:66 Flag: https://flagcdn.com/w320/uz.png
+xhr.js:64 Name: New Caledonia
+xhr.js:65 Capital: Nouméa
+xhr.js:66 Flag: https://flagcdn.com/w320/nc.png
+xhr.js:64 Name: Åland Islands
+xhr.js:65 Capital: Mariehamn
+xhr.js:66 Flag: https://flagcdn.com/w320/ax.png
+xhr.js:64 Name: Nicaragua
+xhr.js:65 Capital: Managua
+xhr.js:66 Flag: https://flagcdn.com/w320/ni.png
+xhr.js:64 Name: Guam
+xhr.js:65 Capital: Hagåtña
+xhr.js:66 Flag: https://flagcdn.com/w320/gu.png
+xhr.js:64 Name: Kenya
+xhr.js:65 Capital: Nairobi
+xhr.js:66 Flag: https://flagcdn.com/w320/ke.png
+xhr.js:64 Name: French Polynesia
+xhr.js:65 Capital: Papeetē
+xhr.js:66 Flag: https://flagcdn.com/w320/pf.png
+xhr.js:64 Name: Jersey
+xhr.js:65 Capital: Saint Helier
+xhr.js:66 Flag: https://flagcdn.com/w320/je.png
+xhr.js:64 Name: Czechia
+xhr.js:65 Capital: Prague
+xhr.js:66 Flag: https://flagcdn.com/w320/cz.png
+xhr.js:64 Name: Uganda
+xhr.js:65 Capital: Kampala
+xhr.js:66 Flag: https://flagcdn.com/w320/ug.png
+xhr.js:64 Name: New Zealand
+xhr.js:65 Capital: Wellington
+xhr.js:66 Flag: https://flagcdn.com/w320/nz.png
+xhr.js:64 Name: Montserrat
+xhr.js:65 Capital: Plymouth
+xhr.js:66 Flag: https://flagcdn.com/w320/ms.png
+xhr.js:64 Name: Saint Barthélemy
+xhr.js:65 Capital: Gustavia
+xhr.js:66 Flag: https://flagcdn.com/w320/bl.png
+xhr.js:64 Name: Costa Rica
+xhr.js:65 Capital: San José
+xhr.js:66 Flag: https://flagcdn.com/w320/cr.png
+xhr.js:64 Name: Mexico
+xhr.js:65 Capital: Mexico City
+xhr.js:66 Flag: https://flagcdn.com/w320/mx.png
+xhr.js:64 Name: Eritrea
+xhr.js:65 Capital: Asmara
+xhr.js:66 Flag: https://flagcdn.com/w320/er.png
+xhr.js:64 Name: Grenada
+xhr.js:65 Capital: St. George's
+xhr.js:66 Flag: https://flagcdn.com/w320/gd.png
+xhr.js:64 Name: Antigua and Barbuda
+xhr.js:65 Capital: Saint John's
+xhr.js:66 Flag: https://flagcdn.com/w320/ag.png
+xhr.js:64 Name: Japan
+xhr.js:65 Capital: Tokyo
+xhr.js:66 Flag: https://flagcdn.com/w320/jp.png
+xhr.js:64 Name: Slovakia
+xhr.js:65 Capital: Bratislava
+xhr.js:66 Flag: https://flagcdn.com/w320/sk.png
+xhr.js:64 Name: United States Virgin Islands
+xhr.js:65 Capital: Charlotte Amalie
+xhr.js:66 Flag: https://flagcdn.com/w320/vi.png
+xhr.js:64 Name: Kosovo
+xhr.js:65 Capital: Pristina
+xhr.js:66 Flag: https://flagcdn.com/w320/xk.png
+xhr.js:64 Name: Vanuatu
+xhr.js:65 Capital: Port Vila
+xhr.js:66 Flag: https://flagcdn.com/w320/vu.png
+xhr.js:64 Name: Palau
+xhr.js:65 Capital: Ngerulmud
+xhr.js:66 Flag: https://flagcdn.com/w320/pw.png
+xhr.js:64 Name: Botswana
+xhr.js:65 Capital: Gaborone
+xhr.js:66 Flag: https://flagcdn.com/w320/bw.png
+xhr.js:64 Name: Tonga
+xhr.js:65 Capital: Nuku'alofa
+xhr.js:66 Flag: https://flagcdn.com/w320/to.png
+xhr.js:64 Name: Fiji
+xhr.js:65 Capital: Suva
+xhr.js:66 Flag: https://flagcdn.com/w320/fj.png
+xhr.js:64 Name: France
+xhr.js:65 Capital: Paris
+xhr.js:66 Flag: https://flagcdn.com/w320/fr.png
+xhr.js:64 Name: Albania
+xhr.js:65 Capital: Tirana
+xhr.js:66 Flag: https://flagcdn.com/w320/al.png
+xhr.js:64 Name: Portugal
+xhr.js:65 Capital: Lisbon
+xhr.js:66 Flag: https://flagcdn.com/w320/pt.png
+xhr.js:64 Name: Niue
+xhr.js:65 Capital: Alofi
+xhr.js:66 Flag: https://flagcdn.com/w320/nu.png
+xhr.js:64 Name: Peru
+xhr.js:65 Capital: Lima
+xhr.js:66 Flag: https://flagcdn.com/w320/pe.png
+xhr.js:64 Name: Indonesia
+xhr.js:65 Capital: Jakarta
+xhr.js:66 Flag: https://flagcdn.com/w320/id.png
+xhr.js:64 Name: Saint Lucia
+xhr.js:65 Capital: Castries
+xhr.js:66 Flag: https://flagcdn.com/w320/lc.png
+xhr.js:64 Name: Guernsey
+xhr.js:65 Capital: St. Peter Port
+xhr.js:66 Flag: https://flagcdn.com/w320/gg.png
+xhr.js:64 Name: Kyrgyzstan
+xhr.js:65 Capital: Bishkek
+xhr.js:66 Flag: https://flagcdn.com/w320/kg.png
+xhr.js:64 Name: Germany
+xhr.js:65 Capital: Berlin
+xhr.js:66 Flag: https://flagcdn.com/w320/de.png
+xhr.js:64 Name: Bolivia
+xhr.js:65 Capital: Sucre
+xhr.js:66 Flag: https://flagcdn.com/w320/bo.png
+xhr.js:64 Name: Dominican Republic
+xhr.js:65 Capital: Santo Domingo
+xhr.js:66 Flag: https://flagcdn.com/w320/do.png
+xhr.js:64 Name: Puerto Rico
+xhr.js:65 Capital: San Juan
+xhr.js:66 Flag: https://flagcdn.com/w320/pr.png
+xhr.js:64 Name: Lebanon
+xhr.js:65 Capital: Beirut
+xhr.js:66 Flag: https://flagcdn.com/w320/lb.png
+xhr.js:64 Name: Maldives
+xhr.js:65 Capital: Malé
+xhr.js:66 Flag: https://flagcdn.com/w320/mv.png
+xhr.js:64 Name: San Marino
+xhr.js:65 Capital: City of San Marino
+xhr.js:66 Flag: https://flagcdn.com/w320/sm.png
+xhr.js:64 Name: South Korea
+xhr.js:65 Capital: Seoul
+xhr.js:66 Flag: https://flagcdn.com/w320/kr.png
+xhr.js:64 Name: Norfolk Island
+xhr.js:65 Capital: Kingston
+xhr.js:66 Flag: https://flagcdn.com/w320/nf.png
+xhr.js:64 Name: Syria
+xhr.js:65 Capital: Damascus
+xhr.js:66 Flag: https://flagcdn.com/w320/sy.png
+xhr.js:64 Name: Afghanistan
+xhr.js:65 Capital: Kabul
+xhr.js:66 Flag: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png
+xhr.js:64 Name: Malawi
+xhr.js:65 Capital: Lilongwe
+xhr.js:66 Flag: https://flagcdn.com/w320/mw.png
+xhr.js:64 Name: Tajikistan
+xhr.js:65 Capital: Dushanbe
+xhr.js:66 Flag: https://flagcdn.com/w320/tj.png
+xhr.js:64 Name: Turkey
+xhr.js:65 Capital: Ankara
+xhr.js:66 Flag: https://flagcdn.com/w320/tr.png
+xhr.js:64 Name: Equatorial Guinea
+xhr.js:65 Capital: Malabo
+xhr.js:66 Flag: https://flagcdn.com/w320/gq.png
+xhr.js:64 Name: Turks and Caicos Islands
+xhr.js:65 Capital: Cockburn Town
+xhr.js:66 Flag: https://flagcdn.com/w320/tc.png
+xhr.js:64 Name: India
+xhr.js:65 Capital: New Delhi
+xhr.js:66 Flag: https://flagcdn.com/w320/in.png
+xhr.js:64 Name: Nigeria
+xhr.js:65 Capital: Abuja
+xhr.js:66 Flag: https://flagcdn.com/w320/ng.png
+xhr.js:64 Name: Pakistan
+xhr.js:65 Capital: Islamabad
+xhr.js:66 Flag: https://flagcdn.com/w320/pk.png
+xhr.js:64 Name: Latvia
+xhr.js:65 Capital: Riga
+xhr.js:66 Flag: https://flagcdn.com/w320/lv.png
+xhr.js:64 Name: Iran
+xhr.js:65 Capital: Tehran
+xhr.js:66 Flag: https://flagcdn.com/w320/ir.png
+xhr.js:64 Name: Cape Verde
+xhr.js:65 Capital: Praia
+xhr.js:66 Flag: https://flagcdn.com/w320/cv.png
+xhr.js:64 Name: French Southern and Antarctic Lands
+xhr.js:65 Capital: Port-aux-Français
+xhr.js:66 Flag: https://flagcdn.com/w320/tf.png
+xhr.js:64 Name: Bulgaria
+xhr.js:65 Capital: Sofia
+xhr.js:66 Flag: https://flagcdn.com/w320/bg.png
+xhr.js:64 Name: Estonia
+xhr.js:65 Capital: Tallinn
+xhr.js:66 Flag: https://flagcdn.com/w320/ee.png
+xhr.js:64 Name: Christmas Island
+xhr.js:65 Capital: Flying Fish Cove
+xhr.js:66 Flag: https://flagcdn.com/w320/cx.png
+xhr.js:64 Name: Haiti
+xhr.js:65 Capital: Port-au-Prince
+xhr.js:66 Flag: https://flagcdn.com/w320/ht.png
+xhr.js:64 Name: Saint Helena, Ascension and Tristan da Cunha
+xhr.js:65 Capital: Jamestown
+xhr.js:66 Flag: https://flagcdn.com/w320/sh.png
+xhr.js:64 Name: Isle of Man
+xhr.js:65 Capital: Douglas
+xhr.js:66 Flag: https://flagcdn.com/w320/im.png
+xhr.js:64 Name: Gabon
+xhr.js:65 Capital: Libreville
+xhr.js:66 Flag: https://flagcdn.com/w320/ga.png
+xhr.js:64 Name: Guyana
+xhr.js:65 Capital: Georgetown
+xhr.js:66 Flag: https://flagcdn.com/w320/gy.png
+xhr.js:64 Name: Saudi Arabia
+xhr.js:65 Capital: Riyadh
+xhr.js:66 Flag: https://flagcdn.com/w320/sa.png
+xhr.js:64 Name: Trinidad and Tobago
+xhr.js:65 Capital: Port of Spain
+xhr.js:66 Flag: https://flagcdn.com/w320/tt.png
+
+//d.output=>
+total population: 7798590363
+
+//e.output=>
+xhr.js:113 name: United States Minor Outlying Islands
+xhr.js:113 name: Timor-Leste
+xhr.js:113 name: Guam
+xhr.js:113 name: Cambodia
+xhr.js:113 name: El Salvador
+xhr.js:113 name: British Virgin Islands
+xhr.js:113 name: United States Virgin Islands
+xhr.js:113 name: Palau
+xhr.js:113 name: Caribbean Netherlands
+xhr.js:113 name: Northern Mariana Islands
+xhr.js:113 name: Panama
+xhr.js:113 name: Puerto Rico
+xhr.js:113 name: American Samoa
+xhr.js:113 name: Turks and Caicos Islands
+xhr.js:113 name: Micronesia
+xhr.js:113 name: Ecuador
+xhr.js:113 name: Marshall Islands
+xhr.js:113 name: United States
+xhr.js:113 name: Bahamas
+xhr.js:113 
